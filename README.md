@@ -7,10 +7,10 @@ The program works like database, written in Prolog language.
 The database contains students information about ID, name, surname, field of study and average grade. User can:
 * list students
 * search students by:
-** name
-** surname
-** field of study
-** average grade (greater or equal)
+   * name
+   * surname
+   * field of study
+   * average grade (greater or equal)
 * add student
 * modify the student with specific ID
 * delete the studetn with specific ID
