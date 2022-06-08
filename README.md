@@ -49,5 +49,8 @@ in clear/0 predicate
 
 ## Version History
 
+* 0.1
+    * Polish version
 * 1.0
+    * Translated
     * All done
