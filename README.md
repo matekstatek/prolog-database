@@ -28,7 +28,7 @@ https://www.swi-prolog.org/
 
 Next, you can compile it in SWI-Prolog GUI or add <swi-prolog_path>/bin to PATH and run:
 ```
-swipl ".\student.pl" # for Windows
+swipl student.pl
 ```
 
 If you are using unix system, you can unhash the line:
